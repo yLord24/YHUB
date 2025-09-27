@@ -1,4 +1,4 @@
-ocal g = getinfo or debug.getinfo
+local g = getinfo or debug.getinfo
 local d = false
 local h = {}
 
